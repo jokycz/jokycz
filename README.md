@@ -18,3 +18,11 @@ Nástroj pro sjednocení video formátů ve složce do formátu `.mkv` s automat
 Systém pro tvorbu vlastního webu pro pizzerii s využitím AI pro generování popisků, menu a dalších textů.  
 **Jazyky a prostředí**: Python, Django (web aplikace)
 
+---
+
+## ☕ Podpoř mě
+
+Tvořím různé nástroje a programy, o kterých se domnívám, že jsou užitečné.  
+Pokud ti některý z mých výtvorů přišel užitečný, budu rád, když mě podpoříš:  
+👉 [Ko-fi – ko-fi.com/josefkyn](https://ko-fi.com/josefkyn)
+
