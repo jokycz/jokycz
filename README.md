@@ -14,6 +14,10 @@ Jsem **Josef Kýn** a tvořím nástroje pro:
 Nástroj pro sjednocení video formátů ve složce do formátu `.mkv` s automatickým označením jazykových verzí titulků pomocí AI.  
 **Jazyky a prostředí**: PowerShell, Python, ffmpeg (CLI)
 
+🛠️ *Plánované funkce:*  
+- Identifikace jazyků zvukových stop a jejich správné označení  
+- Automatické přidání `language` tagu do výstupního MKV
+
 ### 🍕 [`CMS_Pizzerie`](https://github.com/jokycz/CMS_Pizzerie) *(rozpracováno)*
 Systém pro tvorbu vlastního webu pro pizzerii s využitím AI pro generování popisků, menu a dalších textů.  
 **Jazyky a prostředí**: Python, Django (web aplikace)
