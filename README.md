@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Vítejte!
 
-<!--
-**jokycz/jokycz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jsem **Josef Kýn** a tvořím nástroje pro:
 
-Here are some ideas to get you started:
+- 💻 **Vývoj v .NET** – od verze 2.0 po současnost, pro téměř všechny platformy (desktop, web, služby)
+- 🐍 **Python** – zaměřuji se hlavně na oblasti **umělé inteligence** a **strojového učení**
+- 🌐 **Node.js + React** – webové aplikace a interaktivní uživatelská rozhraní
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Moje projekty
+
+### 🎬 [`video_konverter`](https://github.com/jokycz/video_konverter)
+Nástroj pro sjednocení video formátů ve složce do formátu `.mkv` s automatickým označením jazykových verzí titulků pomocí AI.  
+**Jazyky a prostředí**: PowerShell, Python, ffmpeg (CLI)
+
+### 🍕 [`CMS_Pizzerie`](https://github.com/jokycz/CMS_Pizzerie) *(rozpracováno)*
+Systém pro tvorbu vlastního webu pro pizzerii s využitím AI pro generování popisků, menu a dalších textů.  
+**Jazyky a prostředí**: Python, Django (web aplikace)
+
