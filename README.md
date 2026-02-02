@@ -1,26 +1,36 @@
-# 👋 Vítejte!
+# 👋 Ahoj
 
-Jsem **Josef Kýn** a tvořím nástroje pro:
+Jmenuji se **Josef Kýn**.
 
-- 💻 **Vývoj v .NET** – od verze 2.0 po současnost, pro téměř všechny platformy (desktop, web, služby)
-- 🐍 **Python** – zaměřuji se hlavně na oblasti **umělé inteligence** a **strojového učení**
+Jsem **Senior .NET vývojář** se zaměřením na backend, data a práci s reálnými systémy.
+Baví mě pochopit, jak systémy fungují „pod kapotou“, a navrhovat nástroje
+pro migrace a práci s komplexními datovými strukturami.
+
+---
+
+## 🧠 Oblasti, kterým se věnuji
+
+- 💻 **Vývoj v .NET** – od verze 2.0 po současnost, pro téměř všechny platformy  
+  (desktop, web, služby)
+- 🐍 **Python** – zaměření na oblasti **umělé inteligence** a **strojového učení**
 - 🌐 **Node.js + React** – webové aplikace a interaktivní uživatelská rozhraní
 
 ---
 
-## 🧰 Moje projekty
+## 🧰 Aktuální projekt
 
-### 🎬 [`video_konverter`](https://github.com/jokycz/video_konverter)
-Nástroj pro sjednocení video formátů ve složce do formátu `.mkv` s automatickým označením jazykových verzí titulků pomocí AI.  
-**Jazyky a prostředí**: PowerShell, Python, ffmpeg (CLI)
+### 🎬 Jellyfin Migrate Media *(WIP)*
+Nástroj pro migraci mediální knihovny **Jellyfin** mezi různými umístěními na disku.
 
-🛠️ *Plánované funkce:*  
-- Identifikace jazyků zvukových stop a jejich správné označení  
-- Automatické přidání `language` tagu do výstupního MKV
+Zaměřuje se na:
+- migraci **filmů a seriálů**
+- rekonstrukci **adresářové struktury**
+- aktualizaci **databázových vazeb (SQLite)**
 
-### 🍕 [`CMS_Pizzerie`](https://github.com/jokycz/CMS_Pizzerie) *(rozpracováno)*
-Systém pro tvorbu vlastního webu pro pizzerii s využitím AI pro generování popisků, menu a dalších textů.  
-**Jazyky a prostředí**: Python, Django (web aplikace)
+Projekt je **rozpracovaný** a slouží jako  
+**proof of concept / ukázka stylu kódování** pro technické hodnocení.
+
+👉 Repozitář: https://github.com/jokycz/Jellyfin-Migrate-Media
 
 ---
 
