@@ -30,7 +30,7 @@ Zaměřuje se na:
 Projekt je **rozpracovaný** a slouží jako  
 **proof of concept / ukázka stylu kódování** pro technické hodnocení.
 
-👉 Repozitář: https://github.com/jokycz/Jellyfin-Migrate-Media
+👉 [Repozitář Jellyfin Migrate Media](https://github.com/jokycz/Jellyfin-Migrate-Media)
 
 ---
 
