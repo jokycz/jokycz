@@ -1,3 +1,7 @@
+🌍 Jazyk: [Čeština](#-ahoj) | [English](#-hello)
+
+---
+
 # 👋 Ahoj
 
 Jmenuji se **Josef Kýn**.
@@ -10,34 +14,50 @@ pro migrace a práci s komplexními datovými strukturami.
 
 ## 🧠 Oblasti, kterým se věnuji
 
-- 💻 **Vývoj v .NET** – od verze 2.0 po současnost, pro téměř všechny platformy  
-  (desktop, web, služby)
-- 🐍 **Python** – zaměření na oblasti **umělé inteligence** a **strojového učení**
-- 🌐 **Node.js + React** – webové aplikace a interaktivní uživatelská rozhraní
+- 💻 **Vývoj v .NET** – od verze 2.0 po současnost (desktop, web, služby)
+- 🐍 **Python** – umělá inteligence a strojové učení
+- 🌐 **Node.js + React** – webové aplikace a UI
 
 ---
 
 ## 🧰 Aktuální projekt
 
 ### 🎬 Jellyfin Migrate Media *(WIP)*
-Nástroj pro migraci mediální knihovny **Jellyfin** mezi různými umístěními na disku.
-
-Zaměřuje se na:
-- migraci **filmů a seriálů**
-- rekonstrukci **adresářové struktury**
-- aktualizaci **databázových vazeb (SQLite)**
+Nástroj pro migraci mediální knihovny Jellyfin mezi různými umístěními na disku.
 
 Projekt je **rozpracovaný** a slouží jako  
-**proof of concept / ukázka stylu kódování** pro technické hodnocení.
+**proof of concept / ukázka stylu kódování**.
 
-👉 [Repozitář Jellyfin Migrate Media](https://github.com/jokycz/Jellyfin-Migrate-Media)
+👉 https://github.com/jokycz/Jellyfin-Migrate-Media
 
 ---
 
-## ☕ Podpoř mě
+---
 
-Tvořím různé nástroje a programy, o kterých se domnívám, že jsou užitečné.  
-Pokud ti některý z mých výtvorů přišel užitečný, budu rád, když mě podpoříš:  
-👉 [Ko-fi – ko-fi.com/josefkyn](https://ko-fi.com/josefkyn)
+# 👋 Hello
 
+My name is **Josef Kýn**.
 
+I am a **Senior .NET developer** focused on backend systems, data and real-world platforms.
+I enjoy understanding how systems work internally and designing tools
+for migrations and complex data structures.
+
+---
+
+## 🧠 Areas of focus
+
+- 💻 **.NET development** – from version 2.0 to present (desktop, web, services)
+- 🐍 **Python** – artificial intelligence and machine learning
+- 🌐 **Node.js + React** – web applications and interactive UIs
+
+---
+
+## 🧰 Current project
+
+### 🎬 Jellyfin Migrate Media *(WIP)*
+Tool for migrating **Jellyfin** media libraries between different storage locations.
+
+This project is **work in progress** and serves as a  
+**proof of concept / code sample**.
+
+👉 https://github.com/jokycz/Jellyfin-Migrate-Media
