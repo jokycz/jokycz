@@ -30,3 +30,4 @@ Tvořím různé nástroje a programy, o kterých se domnívám, že jsou užite
 Pokud ti některý z mých výtvorů přišel užitečný, budu rád, když mě podpoříš:  
 👉 [Ko-fi – ko-fi.com/josefkyn](https://ko-fi.com/josefkyn)
 
+
